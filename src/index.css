@@ -1,0 +1,5 @@
+@import "tailwindcss";
+/* index.css */
+body {
+  overflow-x: hidden;
+}
