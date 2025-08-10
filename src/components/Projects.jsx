@@ -86,6 +86,13 @@ const projects = [
     live: "https://github.com/sbbhaskar",
     code: "https://github.com/sbbhaskar/todo.api",
   },
+  {
+    id: 13,
+    title: "Ecommerce Site",
+    desc: "Prototype Ecoomerce App",
+    live: "https://github.com/sbbhaskar",
+    code: "https://github.com/sbbhaskar/ecommerce-front-back-code",
+  },
 ];
 
 function Projects() {
