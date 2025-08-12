@@ -93,6 +93,20 @@ const projects = [
     live: "https://github.com/sbbhaskar",
     code: "https://github.com/sbbhaskar/ecommerce-front-back-code",
   },
+  {
+    id: 14,
+    title: "NEWS CMS Frontend",
+    desc: "Prototype NewsCMS App",
+    live: "https://github.com/sbbhaskar?tab=repositories",
+    code: "https://github.com/sbbhaskar/NEWS-CMS-Frontend",
+  },
+  {
+    id: 15,
+    title: "NEWS CMS Backend",
+    desc: "Prototype NewsCMS App",
+    live: "https://github.com/sbbhaskar?tab=repositories",
+    code: "https://github.com/sbbhaskar/NEWS-CMS-Backend",
+  },
 ];
 
 function Projects() {
