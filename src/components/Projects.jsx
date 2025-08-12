@@ -107,6 +107,19 @@ const projects = [
     live: "https://github.com/sbbhaskar?tab=repositories",
     code: "https://github.com/sbbhaskar/NEWS-CMS-Backend",
   },
+    {
+    id: 16,
+    title: "Appointment Booking System",
+    desc: "Prototype Appointment Booking App",
+    live: "https://appointment-booking-app-frontend.vercel.app",
+    code: "https://github.com/sbbhaskar/Appointment-Booking-App-Frontend",
+  },
+      id: 17,
+    title: "Appointment Booking System - Backend",
+    desc: "Prototype Appointment Booking App",
+    live: "https://github.com/sbbhaskar?tab=repositories",
+    code: "https://github.com/sbbhaskar/Appointment-Booking-App-Backend",
+  },
 ];
 
 function Projects() {
