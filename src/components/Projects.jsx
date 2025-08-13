@@ -107,7 +107,7 @@ const projects = [
     live: "https://github.com/sbbhaskar?tab=repositories",
     code: "https://github.com/sbbhaskar/NEWS-CMS-Backend",
   },
-    {
+  {
     id: 16,
     title: "Appointment Booking System",
     desc: "Prototype Appointment Booking App",
