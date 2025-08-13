@@ -170,6 +170,13 @@ const projects = [
     live: "https://github.com/sbbhaskar?tab=repositories",
     code: "https://github.com/sbbhaskar/Invoice-Generator-PDF",
   },
+  {
+    id: 25,
+    title: "Ai ChatBot",
+    desc: "Prototype Chatbot that can be integrated with OpenAI ChatGPT",
+    live: "https://github.com/sbbhaskar?tab=repositories",
+    code: "https://github.com/sbbhaskar/ai-chatbot-app",
+  },
 ];
 
 function Projects() {
