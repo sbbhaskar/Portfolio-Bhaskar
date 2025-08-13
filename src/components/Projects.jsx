@@ -163,6 +163,13 @@ const projects = [
     live: "https://github.com/sbbhaskar?tab=repositories",
     code: "https://github.com/sbbhaskar/Quiz-App",
   },
+  {
+    id: 24,
+    title: "Invoice Generator",
+    desc: "Prototype Invoice Generator PDF",
+    live: "https://github.com/sbbhaskar?tab=repositories",
+    code: "https://github.com/sbbhaskar/Invoice-Generator-PDF",
+  },
 ];
 
 function Projects() {
