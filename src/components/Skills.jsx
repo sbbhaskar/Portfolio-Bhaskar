@@ -83,8 +83,8 @@ const Skills = () => {
               Back-End & Cloud
             </h3>
             <ul className="list-disc pl-6 text-gray-700 dark:text-gray-200">
-              <li>Node.js & Express.js (5 yr): REST API, middleware</li>
-              <li>MongoDB (5 yr): CRUD, schema, Atlas, Compass</li>
+              <li>Node.js & Express.js (1 yr): REST API, middleware</li>
+              <li>MongoDB (1 yr): CRUD, schema, Atlas, Compass</li>
               <li>Git & GitHub (5 yrs): PRs, branching, reviews</li>
               <li>Deployments: Vercel, Netlify, Render, MongoDB Atlas</li>
             </ul>
