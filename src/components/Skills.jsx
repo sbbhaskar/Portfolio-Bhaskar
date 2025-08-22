@@ -2,14 +2,9 @@ import React from "react";
 
 const companyData = [
   {
-    name: "AparSoft Solutions",
-    frontend: 50,
-    backend: 50,
-  },
-  {
     name: "Mildain Solutions LLP",
-    frontend: 70,
-    backend: 30,
+    frontend: 90,
+    backend: 10,
   },
   {
     name: "Aptron Solutions Pvt Ltd",
@@ -78,8 +73,8 @@ const Skills = () => {
               Front-End Development
             </h3>
             <ul className="list-disc pl-6 text-gray-700 dark:text-gray-200">
-              <li>HTML5 & CSS3 (7 yrs): Semantic, Flexbox, Grid, responsive</li>
-              <li>JavaScript (ES6+) & React.js (7 yrs): Hooks, Redux, Router</li>
+              <li>HTML5 CSS3 JS (7 yrs): Semantic, Flexbox, Grid, responsive</li>
+              <li>React.js (1 yrs): Hooks, Redux, Router</li>
               <li>Tailwind CSS & Bootstrap (5 yrs): Utility-first, rapid UI</li>
             </ul>
           </div>
